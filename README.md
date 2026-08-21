@@ -1,4 +1,4 @@
-![SampleTube logo](ytdownloader-social.png)
+![SampleTube logo](ytdownloader-banner.png)
 
 # SampleTube
 
