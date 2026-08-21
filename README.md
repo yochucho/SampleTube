@@ -1,6 +1,7 @@
 # SampleTube
 
 SampleTube is a modern Windows desktop downloader powered by yt-dlp. It lets you download videos, audio, and playlists with a clean dark-themed interface.
+
 ![SampleTube logo](ytdownloader.png)
 ## Features
 
