@@ -5,6 +5,7 @@ SampleTube is a modern Windows desktop downloader powered by yt-dlp. It lets you
 ## Features
 
 - Download YouTube videos, audio, and playlists
+- Edit audio metadata tags, including title, artist, album, and year, for better compatibility with Spotify and other music players
 - MP3, WAV, and FLAC audio formats
 - Playlist downloads organized in History
 - Download progress tracking
